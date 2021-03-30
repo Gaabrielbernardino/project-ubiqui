@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo img {
+  width: 150px;
+  height: 150px;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sidebar {
+  background-color: aqua;
+}
+
+.menu-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-btn p {
+  margin: auto 20px;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+}
